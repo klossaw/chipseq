@@ -1,0 +1,229 @@
+Welcome to BMBDC, happy coding.
+Warning messages:
+1: replacing previous import ‘BiocGenerics::path’ by ‘fs::path’ when loading ‘jhtools’ 
+2: replacing previous import ‘BiocGenerics::Position’ by ‘ggplot2::Position’ when loading ‘jhtools’ 
+3: replacing previous import ‘BiocGenerics::plotMA’ by ‘limma::plotMA’ when loading ‘jhtools’ 
+Rows: 353 Columns: 2
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: "\t"
+chr (2): ID, Description
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+>> preparing features information...		 2023-07-25 11:21:35 AM 
+>> identifying nearest features...		 2023-07-25 11:21:38 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:21:39 AM 
+>> assigning genomic annotation...		 2023-07-25 11:21:39 AM 
+>> adding gene annotation...			 2023-07-25 11:22:11 AM 
+Loading required package: org.Hs.eg.db
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:22:12 AM 
+>> done...					 2023-07-25 11:22:12 AM 
+>> preparing features information...		 2023-07-25 11:24:13 AM 
+>> identifying nearest features...		 2023-07-25 11:24:13 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:24:14 AM 
+>> assigning genomic annotation...		 2023-07-25 11:24:14 AM 
+>> adding gene annotation...			 2023-07-25 11:24:17 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:24:18 AM 
+>> done...					 2023-07-25 11:24:18 AM 
+>> preparing features information...		 2023-07-25 11:25:58 AM 
+>> identifying nearest features...		 2023-07-25 11:25:58 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:25:58 AM 
+>> assigning genomic annotation...		 2023-07-25 11:25:58 AM 
+>> adding gene annotation...			 2023-07-25 11:26:02 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:26:02 AM 
+>> done...					 2023-07-25 11:26:02 AM 
+>> preparing features information...		 2023-07-25 11:27:51 AM 
+>> identifying nearest features...		 2023-07-25 11:27:51 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:27:52 AM 
+>> assigning genomic annotation...		 2023-07-25 11:27:52 AM 
+>> adding gene annotation...			 2023-07-25 11:27:55 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:27:55 AM 
+>> done...					 2023-07-25 11:27:55 AM 
+>> preparing features information...		 2023-07-25 11:29:36 AM 
+>> identifying nearest features...		 2023-07-25 11:29:36 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:29:36 AM 
+>> assigning genomic annotation...		 2023-07-25 11:29:36 AM 
+>> adding gene annotation...			 2023-07-25 11:29:39 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:29:40 AM 
+>> done...					 2023-07-25 11:29:40 AM 
+>> preparing features information...		 2023-07-25 11:31:05 AM 
+>> identifying nearest features...		 2023-07-25 11:31:06 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:31:06 AM 
+>> assigning genomic annotation...		 2023-07-25 11:31:06 AM 
+>> adding gene annotation...			 2023-07-25 11:31:09 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:31:09 AM 
+>> done...					 2023-07-25 11:31:09 AM 
+>> preparing features information...		 2023-07-25 11:33:14 AM 
+>> identifying nearest features...		 2023-07-25 11:33:14 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:33:14 AM 
+>> assigning genomic annotation...		 2023-07-25 11:33:14 AM 
+>> adding gene annotation...			 2023-07-25 11:33:18 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:33:19 AM 
+>> done...					 2023-07-25 11:33:19 AM 
+>> preparing features information...		 2023-07-25 11:35:12 AM 
+>> identifying nearest features...		 2023-07-25 11:35:12 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:35:12 AM 
+>> assigning genomic annotation...		 2023-07-25 11:35:12 AM 
+>> adding gene annotation...			 2023-07-25 11:35:16 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:35:17 AM 
+>> done...					 2023-07-25 11:35:17 AM 
+>> preparing features information...		 2023-07-25 11:37:07 AM 
+>> identifying nearest features...		 2023-07-25 11:37:07 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:37:08 AM 
+>> assigning genomic annotation...		 2023-07-25 11:37:08 AM 
+>> adding gene annotation...			 2023-07-25 11:37:14 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:37:14 AM 
+>> done...					 2023-07-25 11:37:14 AM 
+>> preparing features information...		 2023-07-25 11:39:08 AM 
+>> identifying nearest features...		 2023-07-25 11:39:08 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:39:08 AM 
+>> assigning genomic annotation...		 2023-07-25 11:39:08 AM 
+>> adding gene annotation...			 2023-07-25 11:39:12 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:39:12 AM 
+>> done...					 2023-07-25 11:39:12 AM 
+>> preparing features information...		 2023-07-25 11:40:50 AM 
+>> identifying nearest features...		 2023-07-25 11:40:50 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:40:51 AM 
+>> assigning genomic annotation...		 2023-07-25 11:40:51 AM 
+>> adding gene annotation...			 2023-07-25 11:40:55 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:40:55 AM 
+>> done...					 2023-07-25 11:40:55 AM 
+>> preparing features information...		 2023-07-25 11:42:29 AM 
+>> identifying nearest features...		 2023-07-25 11:42:29 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:42:29 AM 
+>> assigning genomic annotation...		 2023-07-25 11:42:29 AM 
+>> adding gene annotation...			 2023-07-25 11:42:33 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:42:33 AM 
+>> done...					 2023-07-25 11:42:33 AM 
+>> preparing features information...		 2023-07-25 11:44:34 AM 
+>> identifying nearest features...		 2023-07-25 11:44:34 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:44:35 AM 
+>> assigning genomic annotation...		 2023-07-25 11:44:35 AM 
+>> adding gene annotation...			 2023-07-25 11:44:39 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:44:39 AM 
+>> done...					 2023-07-25 11:44:39 AM 
+>> preparing features information...		 2023-07-25 11:46:30 AM 
+>> identifying nearest features...		 2023-07-25 11:46:30 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:46:30 AM 
+>> assigning genomic annotation...		 2023-07-25 11:46:30 AM 
+>> adding gene annotation...			 2023-07-25 11:46:34 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:46:34 AM 
+>> done...					 2023-07-25 11:46:34 AM 
+>> preparing features information...		 2023-07-25 11:48:08 AM 
+>> identifying nearest features...		 2023-07-25 11:48:08 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:48:08 AM 
+>> assigning genomic annotation...		 2023-07-25 11:48:08 AM 
+>> adding gene annotation...			 2023-07-25 11:48:11 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:48:12 AM 
+>> done...					 2023-07-25 11:48:12 AM 
+>> preparing features information...		 2023-07-25 11:50:10 AM 
+>> identifying nearest features...		 2023-07-25 11:50:10 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:50:10 AM 
+>> assigning genomic annotation...		 2023-07-25 11:50:10 AM 
+>> adding gene annotation...			 2023-07-25 11:50:14 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:50:14 AM 
+>> done...					 2023-07-25 11:50:14 AM 
+>> preparing features information...		 2023-07-25 11:52:05 AM 
+>> identifying nearest features...		 2023-07-25 11:52:05 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:52:05 AM 
+>> assigning genomic annotation...		 2023-07-25 11:52:05 AM 
+>> adding gene annotation...			 2023-07-25 11:52:09 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:52:10 AM 
+>> done...					 2023-07-25 11:52:10 AM 
+>> preparing features information...		 2023-07-25 11:53:44 AM 
+>> identifying nearest features...		 2023-07-25 11:53:44 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:53:44 AM 
+>> assigning genomic annotation...		 2023-07-25 11:53:44 AM 
+>> adding gene annotation...			 2023-07-25 11:53:48 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:53:49 AM 
+>> done...					 2023-07-25 11:53:49 AM 
+>> preparing features information...		 2023-07-25 11:55:59 AM 
+>> identifying nearest features...		 2023-07-25 11:55:59 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:56:00 AM 
+>> assigning genomic annotation...		 2023-07-25 11:56:00 AM 
+>> adding gene annotation...			 2023-07-25 11:56:04 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:56:04 AM 
+>> done...					 2023-07-25 11:56:04 AM 
+>> preparing features information...		 2023-07-25 11:57:59 AM 
+>> identifying nearest features...		 2023-07-25 11:57:59 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:58:00 AM 
+>> assigning genomic annotation...		 2023-07-25 11:58:00 AM 
+>> adding gene annotation...			 2023-07-25 11:58:04 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:58:04 AM 
+>> done...					 2023-07-25 11:58:04 AM 
+>> preparing features information...		 2023-07-25 11:59:37 AM 
+>> identifying nearest features...		 2023-07-25 11:59:37 AM 
+>> calculating distance from peak to TSS...	 2023-07-25 11:59:37 AM 
+>> assigning genomic annotation...		 2023-07-25 11:59:37 AM 
+>> adding gene annotation...			 2023-07-25 11:59:41 AM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 11:59:41 AM 
+>> done...					 2023-07-25 11:59:41 AM 
+>> preparing features information...		 2023-07-25 12:01:30 PM 
+>> identifying nearest features...		 2023-07-25 12:01:30 PM 
+>> calculating distance from peak to TSS...	 2023-07-25 12:01:31 PM 
+>> assigning genomic annotation...		 2023-07-25 12:01:31 PM 
+>> adding gene annotation...			 2023-07-25 12:01:34 PM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 12:01:34 PM 
+>> done...					 2023-07-25 12:01:35 PM 
+>> preparing features information...		 2023-07-25 12:03:21 PM 
+>> identifying nearest features...		 2023-07-25 12:03:21 PM 
+>> calculating distance from peak to TSS...	 2023-07-25 12:03:21 PM 
+>> assigning genomic annotation...		 2023-07-25 12:03:21 PM 
+>> adding gene annotation...			 2023-07-25 12:03:25 PM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 12:03:25 PM 
+>> done...					 2023-07-25 12:03:25 PM 
+>> preparing features information...		 2023-07-25 12:05:03 PM 
+>> identifying nearest features...		 2023-07-25 12:05:03 PM 
+>> calculating distance from peak to TSS...	 2023-07-25 12:05:03 PM 
+>> assigning genomic annotation...		 2023-07-25 12:05:03 PM 
+>> adding gene annotation...			 2023-07-25 12:05:08 PM 
+'select()' returned 1:many mapping between keys and columns
+>> assigning chromosome lengths			 2023-07-25 12:05:08 PM 
+>> done...					 2023-07-25 12:05:08 PM 
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
